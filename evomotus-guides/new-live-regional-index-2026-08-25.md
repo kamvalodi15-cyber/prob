@@ -18,6 +18,12 @@
 - [Нижний Новгород — купить АКПП](./akpp-nizhniy-novgorod-podbor.md)
 - [Сызрань — контрактные автозапчасти](./kontraktnye-zapchasti-syzran.md)
 - [Красноярск — купить контрактный двигатель](./dvigatel-krasnoyarsk-kontraktnyi.md)
+- [Новосибирск — купить ТНВД](./tnvd-novosibirsk-kupit.md)
+- [Хабаровск — контрактный вариатор](./variator-khabarovsk-kontraktnyi.md)
+- [Краснодар — купить турбину](./turbina-krasnodar-kupit-bu.md)
+- [Томск — купить генератор](./generator-tomsk-kupit-bu.md)
+- [Екатеринбург — купить стартер](./starter-ekaterinburg-kupit-bu.md)
+- [Богородск — купить АКПП](./akpp-bogorodsk-nizhegorodskaya-oblast.md)
 
 ## АКПП по маркам
 
